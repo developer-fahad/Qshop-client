@@ -1,0 +1,372 @@
+[
+  {
+    "name": "Wireless Earbuds",
+    "img": "https://i.ibb.co/WB2kbLy/pexels-soulful-pizza-2080276-3780681.jpg",
+    "description": "High-quality wireless earbuds with noise cancellation.",
+    "price": 59.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "creation_date": "2024-08-01",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Smartphone Holder",
+    "img": "https://i.ibb.co/hXXVLf8/pexels-efrem-efre-2786187-15876529.jpg",
+    "description": "Adjustable smartphone holder for desk and car use.",
+    "price": 15.99,
+    "category": "Accessories",
+    "ratings": 4.2,
+    "creation_date": "2024-07-28",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "img": "https://i.ibb.co/bgFgGcR/pexels-kei-scampa-1201427-5310538.jpg",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life.",
+    "price": 34.99,
+    "category": "Electronics",
+    "ratings": 4.7,
+    "creation_date": "2024-08-05",
+    "brand": "SoundWave"
+  },
+  {
+    "name": "Running Shoes",
+    "img": "https://i.ibb.co/0Z062LN/pexels-jeshoots-com-147458-7432.jpg",
+    "description": "Lightweight and breathable running shoes for men and women.",
+    "price": 89.99,
+    "category": "Footwear",
+    "ratings": 4.8,
+    "creation_date": "2024-08-10",
+    "brand": "FitGear"
+  },
+  {
+    "name": "Yoga Mat",
+    "img": "https://i.ibb.co/rfTLSDn/pexels-cottonbro-4056510.jpg",
+    "description": "Eco-friendly, non-slip yoga mat with extra cushioning.",
+    "price": 25.99,
+    "category": "Fitness",
+    "ratings": 4.6,
+    "creation_date": "2024-07-15",
+    "brand": "FitGear"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "img": "https://i.ibb.co/9qGLg1D/pexels-jacobyclarkephoto-5400775.jpg",
+    "description": "Energy-saving LED desk lamp with adjustable brightness levels.",
+    "price": 22.99,
+    "category": "Home Office",
+    "ratings": 4.4,
+    "creation_date": "2024-08-03",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Ceramic Coffee Mug",
+    "img": "https://i.ibb.co/RBqty03/pexels-cowomen-1058097-2041384.jpg",
+    "description": "Handcrafted ceramic coffee mug with unique design.",
+    "price": 12.49,
+    "category": "Kitchenware",
+    "ratings": 4.3,
+    "creation_date": "2024-07-30",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Wireless Mouse",
+    "img": "https://i.ibb.co/vLvCxKf/pexels-vojtech-okenka-127162-392018.jpg",
+    "description": "Ergonomic wireless mouse with customizable buttons.",
+    "price": 18.99,
+    "category": "Electronics",
+    "ratings": 4.6,
+    "creation_date": "2024-08-02",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Gaming Chair",
+    "img": "https://i.ibb.co/cTY1CP3/pexels-ron-lach-7858743.jpg",
+    "description": "Comfortable gaming chair with lumbar support and adjustable armrests.",
+    "price": 149.99,
+    "category": "Furniture",
+    "ratings": 4.7,
+    "creation_date": "2024-08-07",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Water Bottle",
+    "img": "https://i.ibb.co/2ts8WGG/pexels-steve-1000084.jpg",
+    "description": "Stainless steel water bottle with temperature retention.",
+    "price": 19.99,
+    "category": "Fitness",
+    "ratings": 4.5,
+    "creation_date": "2024-07-25",
+    "brand": "FitGear"
+  },
+  {
+    "name": "Laptop Stand",
+    "img": "https://i.ibb.co/GpxKTZv/pexels-lalorosas-968631.jpg",
+    "description": "Adjustable laptop stand for improved ergonomics.",
+    "price": 29.99,
+    "category": "Accessories",
+    "ratings": 4.4,
+    "creation_date": "2024-08-09",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Noise-Cancelling Headphones",
+    "img": "https://i.ibb.co/RcRkqwp/pexels-ono-kosuki-5974014.jpg",
+    "description": "Over-ear headphones with active noise cancellation.",
+    "price": 99.99,
+    "category": "Electronics",
+    "ratings": 4.6,
+    "creation_date": "2024-07-20",
+    "brand": "SoundWave"
+  },
+  {
+    "name": "Smart Watch",
+    "img": "https://i.ibb.co/fGh37hB/pexels-tdcat-437037.jpg",
+    "description": "Water-resistant smart watch with fitness tracking.",
+    "price": 149.99,
+    "category": "Electronics",
+    "ratings": 4.8,
+    "creation_date": "2024-08-04",
+    "brand": "FitGear"
+  },
+  {
+    "name": "Portable Charger",
+    "img": "https://i.ibb.co/Zfm1BbS/pexels-readymade-3921695.jpg",
+    "description": "High-capacity portable charger for smartphones and tablets.",
+    "price": 39.99,
+    "category": "Accessories",
+    "ratings": 4.7,
+    "creation_date": "2024-07-22",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Electric Toothbrush",
+    "img": "https://i.ibb.co/RCT1rNt/pexels-karolina-grabowska-4202926.jpg",
+    "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+    "price": 49.99,
+    "category": "Personal Care",
+    "ratings": 4.5,
+    "creation_date": "2024-08-06",
+    "brand": "PersonalCare"
+  },
+  {
+    "name": "Backpack",
+    "img": "https://i.ibb.co/0yz0fH5/pexels-vinta-supply-co-nyc-268013-843194.jpg",
+    "description": "Durable backpack with multiple compartments for travel and daily use.",
+    "price": 59.99,
+    "category": "Accessories",
+    "ratings": 4.6,
+    "creation_date": "2024-07-18",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Wireless Charger",
+    "img": "https://i.ibb.co/TR02pk0/pexels-rann-vijay-677553-7952558.jpg",
+    "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+    "price": 29.99,
+    "category": "Electronics",
+    "ratings": 4.5,
+    "creation_date": "2024-08-08",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Smart Thermostat",
+    "img": "https://i.ibb.co/WW6wFFy/pexels-jakubzerdzicki-27662879.jpg",
+    "description": "Energy-saving smart thermostat with remote control via mobile app.",
+    "price": 199.99,
+    "category": "Home Automation",
+    "ratings": 4.7,
+    "creation_date": "2024-07-21",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "4K Action Camera",
+    "img": "https://i.ibb.co/rGZp6LG/pexels-bertellifotografia-2376994.jpg",
+    "description": "Waterproof 4K action camera with wide-angle lens.",
+    "price": 119.99,
+    "category": "Electronics",
+    "ratings": 4.8,
+    "creation_date": "2024-08-11",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Espresso Machine",
+    "img": "https://i.ibb.co/qJF58YN/pexels-chevanon-324028.jpg",
+    "description": "Compact espresso machine with milk frother.",
+    "price": 199.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.6,
+    "creation_date": "2024-07-19",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Fitness Tracker",
+    "img": "https://i.ibb.co/Qv60455/pexels-tdcat-437036.jpg",
+    "description": "Slim fitness tracker with heart rate monitor and sleep tracking.",
+    "price": 49.99,
+    "category": "Fitness",
+    "ratings": 4.4,
+    "creation_date": "2024-08-12",
+    "brand": "FitGear"
+  },
+  {
+    "name": "Electric Kettle",
+    "img": "https://i.ibb.co/1m6Wf6k/pexels-jsme-mila-523821574-18459668.jpg",
+    "description": "Stainless steel electric kettle with rapid boiling technology.",
+    "price": 39.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "creation_date": "2024-07-24",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Robot Vacuum",
+    "img": "https://i.ibb.co/PjBpTcT/pexels-atomlaborblog-844874.jpg",
+    "description": "Smart robot vacuum with auto-docking and scheduled cleaning.",
+    "price": 299.99,
+    "category": "Home Automation",
+    "ratings": 4.8,
+    "creation_date": "2024-08-14",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Noise-Cancelling Earbuds",
+    "img": "https://i.ibb.co/jGFqHW5/pexels-olly-3799205.jpg",
+    "description": "Compact noise-cancelling earbuds with deep bass.",
+    "price": 79.99,
+    "category": "Electronics",
+    "ratings": 4.6,
+    "creation_date": "2024-07-26",
+    "brand": "SoundWave"
+  },
+  {
+    "name": "Smart Home Camera",
+    "img": "https://i.ibb.co/G9Xjq5f/pexels-yucelozel-7876185.jpg",
+    "description": "1080p smart home camera with motion detection and night vision.",
+    "price": 89.99,
+    "category": "Home Automation",
+    "ratings": 4.7,
+    "creation_date": "2024-07-27",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Portable Blender",
+    "img": "https://i.ibb.co/8NrsWmZ/pexels-cottonbro-6802630.jpg",
+    "description": "Rechargeable portable blender for smoothies and shakes.",
+    "price": 29.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.5,
+    "creation_date": "2024-08-13",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Digital Bathroom Scale",
+    "img": "https://i.ibb.co/sJY635B/pexels-ketut-subiyanto-4474052.jpg",
+    "description": "Precision digital bathroom scale with step-on technology.",
+    "price": 24.99,
+    "category": "Personal Care",
+    "ratings": 4.4,
+    "creation_date": "2024-07-29",
+    "brand": "PersonalCare"
+  },
+  {
+    "name": "Bluetooth Car Adapter",
+    "img": "https://i.ibb.co/480yPCK/pexels-mikebirdy-11845200.jpg",
+    "description": "Bluetooth adapter for hands-free calls and music streaming in the car.",
+    "price": 19.99,
+    "category": "Accessories",
+    "ratings": 4.3,
+    "creation_date": "2024-08-15",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Smart Light Bulbs",
+    "img": "https://i.ibb.co/nRgY2hd/pexels-ian-panelo-7425353.jpg",
+    "description": "Color-changing smart light bulbs with voice control compatibility.",
+    "price": 49.99,
+    "category": "Home Automation",
+    "ratings": 4.6,
+    "creation_date": "2024-08-16",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Electric Hair Trimmer",
+    "img": "https://i.ibb.co/tYYK7zY/pexels-rdne-7697358.jpg",
+    "description": "Cordless electric hair trimmer with adjustable combs.",
+    "price": 29.99,
+    "category": "Personal Care",
+    "ratings": 4.4,
+    "creation_date": "2024-07-17",
+    "brand": "PersonalCare"
+  },
+  {
+    "name": "Compact Toaster Oven",
+    "img": "https://i.ibb.co/2qX3v4w/pexels-zvolskiy-2062426.jpg",
+    "description": "Versatile compact toaster oven with multiple cooking functions.",
+    "price": 69.99,
+    "category": "Kitchen Appliances",
+    "ratings": 4.7,
+    "creation_date": "2024-08-16",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Bluetooth Sleep Mask",
+    "img": "https://i.ibb.co/ByqqZRf/pexels-vika-glitter-392079-4752714.jpg",
+    "description": "Bluetooth-enabled sleep mask with built-in speakers.",
+    "price": 39.99,
+    "category": "Personal Care",
+    "ratings": 4.5,
+    "creation_date": "2024-07-31",
+    "brand": "PersonalCare"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "img": "https://i.ibb.co/BrqZFS1/pexels-skylar-kang-6044930.jpg",
+    "description": "Slim wireless charging pad for fast charging multiple devices.",
+    "price": 49.99,
+    "category": "Accessories",
+    "ratings": 4.6,
+    "creation_date": "2024-08-16",
+    "brand": "TechGear"
+  },
+  {
+    "name": "Smart Alarm Clock",
+    "img": "https://i.ibb.co/sCx7p2s/pexels-fecundap6-359989.jpg",
+    "description": "Smart alarm clock with voice control and sunrise simulation.",
+    "price": 79.99,
+    "category": "Home Automation",
+    "ratings": 4.7,
+    "creation_date": "2024-07-14",
+    "brand": "HomeEssentials"
+  },
+  {
+    "name": "Electric Foot Massager",
+    "img": "https://i.ibb.co/HrkrZY8/pexels-cottonbro-4155010.jpg",
+    "description": "Electric foot massager with heat and multiple massage modes.",
+    "price": 129.99,
+    "category": "Personal Care",
+    "ratings": 4.6,
+    "creation_date": "2024-08-16",
+    "brand": "PersonalCare"
+  },
+  {
+    "name": "Noise-Isolating Headphones",
+    "img": "https://i.ibb.co/R4FTfty/pexels-caleboquendo-7772547.jpg",
+    "description": "Over-ear noise-isolating headphones with premium sound quality.",
+    "price": 119.99,
+    "category": "Electronics",
+    "ratings": 4.8,
+    "creation_date": "2024-08-01",
+    "brand": "SoundWave"
+  },
+  {
+    "name": "Foldable Treadmill",
+    "img": "https://i.ibb.co/FKtVcws/pexels-willpicturethis-1954524.jpg",
+    "description": "Compact foldable treadmill for home workouts.",
+    "price": 399.99,
+    "category": "Fitness",
+    "ratings": 4.7,
+    "creation_date": "2024-08-16",
+    "brand": "FitGear"
+  }
+]
